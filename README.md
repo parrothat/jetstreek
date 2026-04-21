@@ -30,9 +30,11 @@ Jetstreek currently supports:
 - Wind
 - Humidity
 - Precipitation
+- OMEGA (700 hPa)
+- Air pressure
+- Cloud coverage
 
 Planned features:
-- Air pressure maps
 - Radar imagery
 - Expanded regional support (including USA)
 
